@@ -54,6 +54,30 @@
                     "value": "mhq3f"
                 }
             ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "175"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "N/A"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
         }
     ]
 }
