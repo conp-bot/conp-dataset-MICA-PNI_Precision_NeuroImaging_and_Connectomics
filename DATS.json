@@ -7,6 +7,23 @@
         }
     ],
     "version": "2025-09-11T16:24:29.802959",
+    "types": [
+        {
+            "information": {
+                "value": "dataset"
+            }
+        }
+    ],
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "N/A"
+        }
+    ],
     "distributions": [
         {
             "size": 470.04,
@@ -15,7 +32,10 @@
             },
             "access": {
                 "landingPage": "https://osf.io/mhq3f/"
-            }
+            },
+            "formats": [
+                "N/A"
+            ]
         }
     ],
     "extraProperties": [
