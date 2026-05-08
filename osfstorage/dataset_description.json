@@ -1,0 +1,42 @@
+{
+    "Name": "Precision NeuroImaging and Connectomics (PNC)",
+    "BIDSVersion": "1.14.1",
+    "DatasetType": "raw",
+    "License": "CC0 1.0 Universal",
+    "Authors": [
+"Donna Gift Cabalo*",
+"Yezhou Wang",
+"Ilana Leppert",
+"Risa Thevakumaran",
+"Jordan DeKraker",
+"Jessica Royer",
+"Valeria Kebets",
+"Shahin Tavakol",
+"Oualid Benkarim",
+"Nicole Eichert",
+"Casey Paquola",
+"Jonathan Smallwood",
+"Christine Tardif",
+"David Rudko",
+"Raul Rodriguez-Cruces**",
+"Boris C. Bernhardt**"
+    ],
+
+    "Acknowledgements": "The authors thank all participants who took part in this study. We also thank David Costa, Ronald Lopez and Soheil M. Quchani for their assistance in data collection, as well as Michael Ferreira for their guidance in designing the scanning protocol.",
+    "HowToAcknowledge": "Please cite the dataset DOI: DOI 10.17605/OSF.IO/MHQ3F.Preprint coming soon",
+    "Funding": [
+"DGC is funded in part by the Canada First Research Excellence Fund and Fonds de recherche du Québec, awarded to the Healthy Brains, Healthy Lives (HBHL) initiative at McGill University and Quebec Bio-Imaging Network (QBIN-RBIQ)",
+"YW Fonds de la Recherche du Québec -Nature et technologies (FRQNT) and Helmholtz International BigBrain Analytics and Learning Laboratory (HIBALL)",
+"JD is funded by the Natural Sciences and Engineering Research Council of Canada- Post-Doctoral Fellowship (NSERC-PDF)",
+"JR received support from the Canadian Open Neuroscience Platform (CONP) and Canadian Institute of Health Research (CIHR)",
+"ST is funded by the Canadian Open Neuroscience Platform (CONP)",
+"CP and R.R.C. received support from the Fonds de la Recherche du Québec – Santé (FRQ-S)",
+"NE is supported by a Sir Henry Wellcome Postdoctoral Fellowship from the Wellcome Trust [222799/Z/21/Z]",
+"OB received support from the HBHL program",
+"BCB acknowledges research support from the NSERC Discovery-1304413, CIHR (FDN-154298, PJT-174995, PJT-191853), SickKids Foundation (NI17-039), the HIBALL, HBHL, Brain Canada,and the Tier-2 Canada Research Chairs program"
+    ],
+    "ReferencesAndLinks": [
+      "..."
+    ],
+    "DatasetDOI": "DOI 10.17605/OSF.IO/MHQ3F"
+}

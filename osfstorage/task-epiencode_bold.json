@@ -1,0 +1,20 @@
+{
+  "Manufacturer": "Siemens",
+	"ManufacturersModelName": "Investigational_Device_7T",
+	"ProcedureStepDescription": "Functional^Dr.Bernhardt",
+	"InstitutionName": "BIC",
+	"ScanningSequence": "EP",
+	"SequenceVariant": "SK\\SS",
+	"ReceiveCoilName": "8Tx32Rx_Head",
+	"FlipAngle": 67,
+	"EchoTime": 0.0108,
+	"EchoTimeDescription": "acquired with multieco fMRI, EchoTime is the first echo only.Look for AllEchotime",
+	"AllEchoTime": [0.0108,0.0273,0.0438],
+	"RepetitionTime": 1.69,
+	"MagneticFieldStrength": 7,
+	"SeriesDescription": "task_epiencode",
+	"BodyPartExamined": "BRAIN",
+	"ProtocolName": "task_epiencode",
+	"TaskName": "epiencode",
+  "TaskDescription": "Episodic memory encoding task"
+}
