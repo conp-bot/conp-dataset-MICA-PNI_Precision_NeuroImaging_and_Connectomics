@@ -54,16 +54,363 @@
     ],
     "distributions": [
         {
-            "size": 470.04,
+            "title": "Main project files",
+            "size": 3.19,
             "unit": {
                 "value": "GB"
             },
             "access": {
                 "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/mhq3f/providers/osfstorage/?zip=",
                 "authorizations": [
-                  {
-                    "value": "public"
-                  }
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "reprocessed_DWI_sub-PNC001",
+            "identifier": {
+                "identifier": "https://osf.io/x4w6j/",
+                "identifierSource": "OSF"
+            },
+            "size": 10.45,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/x4w6j/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "raw_PNC007-PNC009",
+            "identifier": {
+                "identifier": "https://osf.io/qts9m/",
+                "identifierSource": "OSF"
+            },
+            "size": 35.82,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/qts9m/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "processed_PNC008",
+            "identifier": {
+                "identifier": "https://osf.io/yzcvu/",
+                "identifierSource": "OSF"
+            },
+            "size": 36.77,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/yzcvu/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "raw_PNC004-PNC006",
+            "identifier": {
+                "identifier": "https://osf.io/458gp/",
+                "identifierSource": "OSF"
+            },
+            "size": 36.99,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/458gp/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "processed_PNC006",
+            "identifier": {
+                "identifier": "https://osf.io/398by/",
+                "identifierSource": "OSF"
+            },
+            "size": 38.51,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/398by/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "processed_PNC003",
+            "identifier": {
+                "identifier": "https://osf.io/34gfb/",
+                "identifierSource": "OSF"
+            },
+            "size": 38.57,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/34gfb/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "processed_PNC009",
+            "identifier": {
+                "identifier": "https://osf.io/6g5te/",
+                "identifierSource": "OSF"
+            },
+            "size": 37.38,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/6g5te/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "processed_PNC007",
+            "identifier": {
+                "identifier": "https://osf.io/czw6a/",
+                "identifierSource": "OSF"
+            },
+            "size": 37.33,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/czw6a/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "processed_PNC002",
+            "identifier": {
+                "identifier": "https://osf.io/9geps/",
+                "identifierSource": "OSF"
+            },
+            "size": 36.82,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/9geps/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "processed_PNC004",
+            "identifier": {
+                "identifier": "https://osf.io/x4k2z/",
+                "identifierSource": "OSF"
+            },
+            "size": 37.3,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/x4k2z/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "processed_PNC010",
+            "identifier": {
+                "identifier": "https://osf.io/m8bew/",
+                "identifierSource": "OSF"
+            },
+            "size": 36.86,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/m8bew/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "processed_PNC005",
+            "identifier": {
+                "identifier": "https://osf.io/fqd4v/",
+                "identifierSource": "OSF"
+            },
+            "size": 37.63,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/fqd4v/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "raw_PNC010",
+            "identifier": {
+                "identifier": "https://osf.io/u4cs2/",
+                "identifierSource": "OSF"
+            },
+            "size": 11.87,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/u4cs2/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "raw_PNC001-PNC003",
+            "identifier": {
+                "identifier": "https://osf.io/qa89e/",
+                "identifierSource": "OSF"
+            },
+            "size": 37.24,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/qa89e/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "processed_PNC001",
+            "identifier": {
+                "identifier": "https://osf.io/cu4t2/",
+                "identifierSource": "OSF"
+            },
+            "size": 31.98,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "accessURL": "https://files.us.osf.io/v1/resources/cu4t2/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
                 ]
             },
             "formats": [
